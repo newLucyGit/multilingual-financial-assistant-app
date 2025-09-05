@@ -1,23 +1,17 @@
-# Environment & secrets
+# secrets & environment
 .env
 .streamlit/secrets.toml
 
-# Python cache & build files
+# python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# System files
+# system
 *.DS_Store
 *.log
 
-# Local data files (don’t commit docs or generated indexes)
-docs/
-*.pdf
-vector_index.faiss
-doc_mapping.pkl
-
-# Virtual environments
+# virtual envs
 .venv/
 venv/
