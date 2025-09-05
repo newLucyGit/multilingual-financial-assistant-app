@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+sentence-transformers
+deep-translator
+requests
+python-dotenv
+numpy
+PyPDF2
+pymupdf
+pytesseract
+Pillow
